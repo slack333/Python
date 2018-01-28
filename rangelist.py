@@ -1,0 +1,12 @@
+a1 = list(range(0,11))
+a2 = list(range(-10,1))
+a3 = list(range(0,21,2))
+a4 = list(range(-20,1,2))
+a5 = list(range(0,51,5))
+print(a1,a2,a3,a4,a5)
+
+print (list(range(0,11)))
+print (list(range(-10,1)))
+print (list(range(0,21,2)))
+print (list(range(-20,1,2)))
+print (list(range(0,51,5)))
